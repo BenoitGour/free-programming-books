@@ -6,7 +6,7 @@
 * [Learn C](http://www.learn-c.org/)
 
 
-###C#
+###C# 
 * [Learn C#](http://www.learncs.org/)
 
 
@@ -24,7 +24,7 @@
 * [Try Erlang](http://www.tryerlang.org/)
 
 
-###F#
+###F# 
 * [Try F#](http://www.tryfsharp.org/)
 
 
